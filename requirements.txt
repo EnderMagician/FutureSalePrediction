@@ -7,9 +7,9 @@ pandas
 scipy 
 folium 
 matplotlib 
-ipywidgets>=7.0.0 
+ipywidgets
 bqplot 
-nbinteract==0.0.12 
+nbinteract
 plotly
 seaborn
 scikit-learn
